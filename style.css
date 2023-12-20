@@ -1,0 +1,36 @@
+body {
+    background: lightblue;
+}
+
+.container{
+    background: white;
+}
+
+#intro {
+    background: red;
+    border: 5px solid green;
+}
+
+/* 0 2 0 */
+.git-desc.git-list {
+    background: lightseagreen;
+}
+
+/* 0 1 0 */
+.git-desc {
+    background: green;
+    border: 4px solid yellow;
+}
+
+.container p {
+    color: blue;
+    font-size: 1.2em;
+}
+
+h2:hover {
+    font-size: 2em;
+}
+
+li:nth-child(even) {
+    color: pink;
+}
